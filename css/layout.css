@@ -34,6 +34,8 @@
   width: 66%;
 }
 
+[class*="col-"]
+
 .first {
   margin-left: 0%;
 }
