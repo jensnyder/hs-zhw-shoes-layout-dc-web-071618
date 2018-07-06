@@ -40,5 +40,5 @@
 
 .row {
   margin-bottom: 2%;
-}
+  clear: both;
 }
